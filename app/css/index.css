@@ -1,0 +1,15 @@
+.login {
+    margin: 0 auto;
+    width: 50%;
+    border: 2px solid #ccc;
+    padding: 40px;
+}
+input {
+    margin: 5px;
+    padding: 10px;
+}
+.home {
+    color: #13490c;
+    background-color: #d9f5ff;
+    text-align: center;
+}
